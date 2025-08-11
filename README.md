@@ -1,6 +1,6 @@
 # OmnifoodHTML+CSS
 
-**Live demo:** [https://a2sn2.github.io//OmnifoodHTML+CSS/]
+**Live demo:** [https://a2sn2.github.io/OmnifoodHTML-CSS/]
 
 ---
 
